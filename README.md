@@ -35,12 +35,10 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/VitasQA">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitasQA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitasQA&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitasQA)](https://git.io/streak-stats)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
