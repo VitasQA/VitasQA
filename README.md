@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-![Vitaly's GitHub stats](https://github-readme-stats.vercel.app/api?username=VutasQA&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight)
+![Vitaly's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitasQA&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
