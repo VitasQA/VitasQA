@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://t.me/makafakas"><img src="https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vitaliy-kruglik/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/kruglikkruglik"><img src="https://img.shields.io/badge/-@Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/kruglikkruglik"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
