@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+[![Vitaly's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=VitasQA&theme=tokyonight)](https://git.io/streak-stats)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
