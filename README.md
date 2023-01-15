@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vitaliy-kruglik/"><img src="https://img.shields.io/badge/-Vitaliy%20Kruglik%20Ivanovich-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/kruglikkruglik"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/kruglikkruglik"><img src="https://img.shields.io/badge/-@kruglikkruglik-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
