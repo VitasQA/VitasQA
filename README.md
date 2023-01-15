@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 
 [![Vitaly's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=VitasQA&theme=tokyonight)](https://git.io/streak-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitasQA&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitasQA&theme=solarized_dark)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
