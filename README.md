@@ -33,13 +33,6 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/VitasQA">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitasQA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitasQA&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 [![Vitaly's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=VitasQA&theme=tokyonight)](https://git.io/streak-stats)
 
 ### 🤝🏻 &nbsp;Connect with Me
