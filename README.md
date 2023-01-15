@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='60' align="center"/><h2>Hey there! I'm Vitaliy</h2>
+<h1 align="center">Hi 👋, I'm Vitaliy</h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Vitaliy -->
 
