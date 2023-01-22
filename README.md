@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :man_technologist;About Me:
+### 💬 &nbsp;About Me
+
 Hi, everybody! Able to learn quickly. Punctual. Responsible. Communicative. Attentive to details. Self-organized and result-oriented. Team-player, who gets along with people. I love logic games, chess and running.
 
 ### 🛠 &nbsp;Tech Stack
