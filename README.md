@@ -35,9 +35,9 @@ Hi, everybody! Able to learn quickly. Punctual. Responsible. Communicative. Atte
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-<div id="badges" align="center">
+
 [![Vitaly's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=VitasQA&theme=tokyonight)](https://git.io/streak-stats)
-</div>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitasQA&theme=solarized_dark)
   
 ### 🤝🏻 &nbsp;Connect with Me
