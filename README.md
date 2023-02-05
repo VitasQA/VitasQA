@@ -1,7 +1,3 @@
-<div id="header" align="center">
-<iframe src="https://gifer.com/embed/JXA0" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-</div>
-
 <h1 align="center">Hi👋, I'm Vitaliy</h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Vitaliy -->
