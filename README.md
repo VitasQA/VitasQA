@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://i.gifer.com/JXA0.gif" width="180"/>
+</div>
+
 <h1 align="center">Hi👋, I'm Vitaliy</h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Vitaliy -->
