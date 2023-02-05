@@ -1,4 +1,5 @@
 <h1 align="center">Hi👋, I'm Vitaliy</h1>
+
 <!--- **VitasQA/VitasQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-
 ### 💬 &nbsp;About Me
 
 Hi, everybody! Able to learn quickly. Punctual. Responsible. Communicative. Attentive to details. Self-organized and result-oriented. Team-player, who gets along with people. I love logic games, chess and running.
