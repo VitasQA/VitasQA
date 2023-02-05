@@ -1,6 +1,5 @@
-<h1 align="center">Hi👋, I'm Vitaliy</h1>
-<img alt="Night Coding" src="./distrib/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
-<!-- ## 👋 &nbsp;Hey there! I'm Vitaliy -->
+<!--<h1 align="center">Hi👋, I'm Vitaliy</h1>-->
+<img alt="Hand Wave" src="./distrib/Hand%20Wave.gif" width='40' align="center"/><h2>Hey everyone! I'm Vitaliy</h2>
 
 <!--- **VitasQA/VitasQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
