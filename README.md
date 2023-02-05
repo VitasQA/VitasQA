@@ -33,14 +33,13 @@ Hi, everybody! Able to learn quickly. Punctual. Responsible. Communicative. Atte
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<p align="center">
-### ⚙️ &nbsp;GitHub Analytics
-[![Vitaly's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=VitasQA&theme=tokyonight)](https://git.io/streak-stats)
 
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+[![Vitaly's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=VitasQA&theme=tokyonight)](https://git.io/streak-stats)
 <p align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitasQA&theme=solarized_dark)
   
-<p align="center">
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
