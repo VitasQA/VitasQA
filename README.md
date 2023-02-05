@@ -2,7 +2,7 @@
 <img alt="Night Coding" src="./distrib/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 <!-- ## 👋 &nbsp;Hey there! I'm Vitaliy -->
 
-**VitasQA/VitasQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- **VitasQA/VitasQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--->
 
 ### 💬 &nbsp;About Me
 
