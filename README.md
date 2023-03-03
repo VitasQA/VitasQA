@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 --->
 ### 💬 &nbsp;About Me
 
-Hi, everybody! Able to learn quickly. Punctual. Responsible. Communicative. Attentive to details. Self-organized and result-oriented. Team-player, who gets along with people. I love logic games, chess and running!
+Hi, everybody! Able to learn quickly. Punctual. Responsible. Communicative. Attentive to details. Self-organized and result-oriented. Team-player, who gets along with people. I love logic games, chess and running.
 
 ### ⚜ *CV находится [тут](https://drive.google.com/file/d/1kB9f1Si1icFuZeXykH1SOoljWnXvUP7n/view?usp=share_link)*
 
